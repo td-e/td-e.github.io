@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+/* img and #load-next-segment-on-appear need to have a size for jQuery.appear to work */
+
+#photos img, #dlg-girl-area img, #dlg-girl img, #dlg-help img {
+  width: 100%;
+  background-image: url('loading.gif');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#load-next-segment-on-appear {
+  height: 1px;
+}
+
+#menu {
+  z-index: 3000;
+  position: fixed;
+  right: 0;
+  top: 4em;
+}
+
+#menu img {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#popup-intro {
+  z-index: 2000;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.7;
+  background-color: black;
+  color: white;
+  font-size: larger;
+  overflow-y: auto;
+  display: none;
+}
+
+.num-imgs {
+  position: absolute;
+  right: 0;
+  font-size: 2em;
+  font-weight: bold;
+  background-color: black;
+  opacity: 0.7;
+  color: white;
+}
+
+.dlg {
+  position: fixed;
+  left: 0;
+  top: 0;
+  overflow-y: scroll;
+  background-color: white;
+  display: none;
+}
+
+.dlg-title-bar {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  background-color: lightgray;
+  clear: both;
+}
+
+.dlg-title {
+  font-weight: bold;
+  float: left;
+  width: 90%;
+  padding-top: 0.5em;
+}
+
+.dlg-close {
+  float: right;
+  font-weight: bold;
+  font-size: 2em;
+  margin-right: 0.3em;
+  cursor: pointer;
+}
+
+.dlg-body {
+  margin-top: 2.5em;
+}
+
+.sms-instruction-content {
+  font-size: larger;
+}
+
+.hidden {
+  display: none;
+}
