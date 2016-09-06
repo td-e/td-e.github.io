@@ -1,3 +1,6 @@
+var PLUG_RUSH_HTML = '<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ked2"></div>';
+var PLUG_RUSH_INTERVAL = 2;
+
 // Add spaces so that the intro takes the whole screen
 var INTRO_SPACES = '\n';
 (function() { for (var i = 0; i < 400; i++) INTRO_SPACES += ' '; })();
@@ -160,6 +163,8 @@ var girlAreaHtml = function(parent, girlArea) {
       '</a></p>';
 
     girlElem.html(girlHtml);
+
+    if ((i + 1) % PLUG_RUSH_INTERVAL == 0) girlElem.append(PLUG_RUSH_HTML);
   }
 };
 
@@ -252,6 +257,8 @@ var loadLazyImgs = function() {
           });
           img.appear();
         }
+
+        if ((i + 1) % PLUG_RUSH_INTERVAL == 0) threadElem.append(PLUG_RUSH_HTML);
       }
     },
 
