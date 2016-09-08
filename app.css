@@ -55,6 +55,10 @@ pre {
   display: none;
 }
 
+#popup-intro-content {
+  padding-right: 4em;
+}
+
 .num-imgs {
   position: absolute;
   right: 0;
