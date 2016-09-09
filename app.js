@@ -1,5 +1,5 @@
 var PLUG_RUSH_HTML = '<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ked2"></div>';
-var PLUG_RUSH_INTERVAL = 2;
+var PLUG_RUSH_INTERVAL = 1;
 
 // Add spaces so that the intro takes the whole screen
 var INTRO_SPACES = '\n';
@@ -156,7 +156,7 @@ var girlAreaHtml = function(parent, girlArea) {
 
     var girlHtml =
       '<p><strong>VND ' + girl.price + '</strong>/shot <a href="tel:' + girl.phone + '">' + girl.phone + '</a><br />' +
-      escapeHtml(title) +
+      '<span class="avoid-menu">' + escapeHtml(title) + '</span>' +
       '<img src="' + girl.thread.imgUrls[0] + '" />' +
       '<a href="javascript:showGirl(' + i + ')">' +
         '<span class="num-imgs">'+ girl.thread.imgUrls.length + ' images &raquo;</span>' +
@@ -164,7 +164,7 @@ var girlAreaHtml = function(parent, girlArea) {
 
     girlElem.html(girlHtml);
 
-    if ((i + 1) % PLUG_RUSH_INTERVAL == 0) girlElem.append(PLUG_RUSH_HTML);
+    if ((i + 1) % (PLUG_RUSH_INTERVAL + 1) == 0) girlElem.append(PLUG_RUSH_HTML);
   }
 };
 
@@ -202,6 +202,7 @@ var girlBodyHtml = function(girl) {
     var imgUrl = girl.thread.imgUrls[i];
     ret += '<img src="' + imgUrl + '" />';
   }
+  ret += PLUG_RUSH_HTML;
   return ret;
 }
 
@@ -232,7 +233,7 @@ var loadLazyImgs = function() {
           showIntro(intro);
         });
 
-        threadElem.append('<h4>' + escapeHtml(title) + '<br />(' + imgUrls.length + ' images)</h4>');
+        threadElem.append('<h4 class="avoid-menu">' + escapeHtml(title) + '<br />(' + imgUrls.length + ' images)</h4>');
 
         for (var j = 0; j < imgUrls.length; j++) {
           $imgCount++;

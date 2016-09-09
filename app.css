@@ -40,6 +40,11 @@ pre {
   user-select: none;
 }
 
+/* Avoid being covered by #menu */
+.avoid-menu {
+  padding-right: 4em;
+}
+
 #popup-intro {
   z-index: 2000;
   position: fixed;
@@ -55,13 +60,9 @@ pre {
   display: none;
 }
 
-#popup-intro-content {
-  padding-right: 4em;
-}
-
 .num-imgs {
   position: absolute;
-  right: 0;
+  left: 0;
   font-size: 2em;
   font-weight: bold;
   background-color: black;
