@@ -1,5 +1,5 @@
 var PLUG_RUSH_HTML = '<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ked2"></div>';
-var PLUG_RUSH_INTERVAL = 1;
+var PLUG_RUSH_INTERVAL = 2;
 
 // Add spaces so that the intro takes the whole screen
 var INTRO_SPACES = '\n';
