@@ -402,11 +402,21 @@ $(function() {
     }
   });
 
-  var SPEED_FACTOR = 1;
-  var fapSpeed     = 0;
-  var fapTimer     = null;
+  var SPEED_FACTOR  = 1;
+
+  var fapSpeed      = 0;
+  var fapTimer      = null;
+  var lastScrollTop = 0;
+
+  var stopScroll = function() {
+    clearTimeout(fapTimer);
+    fapTimer = null;
+    fapSpeed = 0;
+  };
+
   $('#menu-fap').click(function() {
     if (fapTimer == null) {
+      lastScrollTop = 0;
       fapSpeed = 1;
       fapTimer = setInterval(function () {
         if ($('#popup-intro').is(':visible')) return;
@@ -416,17 +426,25 @@ $(function() {
 
         var navContainerSelector = navs[0];
         var scroller             = $(navContainerSelector);
-        var screenSizeFactor     = $(window).width() / 350.0;
-        var distance             = fapSpeed * SPEED_FACTOR * screenSizeFactor;
 
+        // Stop if the user scrolled up
+        scrollTop = $(scroller).scrollTop();
+        if (scrollTop + 5 < lastScrollTop) {
+          stopScroll();
+          return;
+        }
+
+        var screenSizeFactor = $(window).width() / 350.0;
+        var distance         = fapSpeed * SPEED_FACTOR * screenSizeFactor;
         if (distance < 1) distance = 1;
-        $(scroller).scrollTop($(scroller).scrollTop() + distance);
+
+        scrollTop += distance;
+        lastScrollTop = scrollTop;
+        $(scroller).scrollTop(scrollTop);
       }, 20);
     } else {
       if (fapSpeed == 4) {
-        clearTimeout(fapTimer);
-        fapTimer = null;
-        fapSpeed = 0;
+        stopScroll();
       } else {
         fapSpeed++;
       }
