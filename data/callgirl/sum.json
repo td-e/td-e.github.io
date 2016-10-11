@@ -27,7 +27,7 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "http://gaigoivl.com/gai-goi-quan-go-vap/", "http://gaigoivl.com/gai-goi-quan-phu-nhuan/", "http://gaigoivl.com/gai-goi-quan-binh-thanh/", "http://gaigoivl.com/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 35
+  "girlSum" : 37
 }, {
   "name" : "Pho Co",
   "lat" : 21.029042,
@@ -39,7 +39,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "http://gaigoivl.com/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 33
+  "girlSum" : 34
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
@@ -63,7 +63,7 @@
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 46
+  "girlSum" : 47
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -75,7 +75,7 @@
   "lat" : 21.017369,
   "lon" : 105.807176,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-di-dem-tai-ha-noi.220/", "http://gaigoivl.com/gai-goi-qua-dem/" ],
-  "girlSum" : 17
+  "girlSum" : 21
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
