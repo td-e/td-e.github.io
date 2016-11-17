@@ -81,7 +81,7 @@
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "http://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "http://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 19
+  "girlSum" : 20
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -93,7 +93,7 @@
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 31
+  "girlSum" : 29
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 61
+  "girlSum" : 62
 } ]
