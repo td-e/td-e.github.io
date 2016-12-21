@@ -33,7 +33,7 @@
   "lat" : 21.029042,
   "lon" : 105.852405,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-hang-cao-cap-ha-noi.197/", "http://gaigoivl.com/gai-goi-pho-co-long-bien/", "http://gaigoivl.com/gai-goi-thai-ha-chua-boc/" ],
-  "girlSum" : 28
+  "girlSum" : 29
 }, {
   "name" : "Tan Binh",
   "lat" : 10.802261,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 61
+  "girlSum" : 62
 } ]
