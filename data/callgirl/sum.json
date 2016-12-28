@@ -3,7 +3,7 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 6
+  "girlSum" : 7
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -27,7 +27,7 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "http://gaigoivl.com/gai-goi-quan-go-vap/", "http://gaigoivl.com/gai-goi-quan-phu-nhuan/", "http://gaigoivl.com/gai-goi-quan-binh-thanh/", "http://gaigoivl.com/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 40
+  "girlSum" : 39
 }, {
   "name" : "Pho Co",
   "lat" : 21.029042,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 42
+  "girlSum" : 44
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 56
+  "girlSum" : 55
 } ]
