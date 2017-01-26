@@ -81,7 +81,7 @@
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "http://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "http://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 19
+  "girlSum" : 4
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 48
+  "girlSum" : 49
 } ]
