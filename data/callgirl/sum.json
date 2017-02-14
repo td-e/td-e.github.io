@@ -39,7 +39,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "http://gaigoivl.com/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 35
+  "girlSum" : 37
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
@@ -81,7 +81,7 @@
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "http://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "http://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 21
+  "girlSum" : 19
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -105,11 +105,11 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 41
+  "girlSum" : 43
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 53
+  "girlSum" : 52
 } ]
