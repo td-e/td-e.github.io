@@ -3,7 +3,7 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 7
+  "girlSum" : 6
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -87,13 +87,13 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 29
+  "girlSum" : 28
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 32
+  "girlSum" : 33
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
