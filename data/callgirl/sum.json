@@ -3,7 +3,7 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 5
+  "girlSum" : 6
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -81,7 +81,7 @@
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "http://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "http://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 20
+  "girlSum" : 19
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -105,7 +105,7 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 21
+  "girlSum" : 22
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
