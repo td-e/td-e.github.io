@@ -9,7 +9,7 @@
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "http://gaigoivl.com/gai-goi-my-dinh-htm/" ],
-  "girlSum" : 15
+  "girlSum" : 17
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 30
+  "girlSum" : 31
 } ]
