@@ -9,7 +9,7 @@
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "http://gaigoivl.com/gai-goi-my-dinh-htm/" ],
-  "girlSum" : 15
+  "girlSum" : 14
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -63,7 +63,7 @@
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 22
+  "girlSum" : 23
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 51
+  "girlSum" : 54
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
