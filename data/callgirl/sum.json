@@ -3,13 +3,13 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 6
+  "girlSum" : 7
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "http://gaigoivl.com/gai-goi-my-dinh-htm/" ],
-  "girlSum" : 14
+  "girlSum" : 13
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -57,13 +57,13 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tran-duy-hung-nguyen-thi-dinh.194/", "http://gaigoivl.com/gai-goi-tran-duy-hung/", "http://gaigoivl.com/gai-goi-lang-nga-tu-so/", "http://gaigoivl.com/gai-goi-kim-lien-xa-dan/", "http://gaigoivl.com/gai-goi-khu-vuc-khac/" ],
-  "girlSum" : 40
+  "girlSum" : 41
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 16
+  "girlSum" : 17
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 41
+  "girlSum" : 40
 } ]
