@@ -3,7 +3,7 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 9
+  "girlSum" : 5
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -27,13 +27,13 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "http://gaigoivl.com/gai-goi-quan-go-vap/", "http://gaigoivl.com/gai-goi-quan-phu-nhuan/", "http://gaigoivl.com/gai-goi-quan-binh-thanh/", "http://gaigoivl.com/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 9
+  "girlSum" : 15
 }, {
   "name" : "Pho Co",
   "lat" : 21.029042,
   "lon" : 105.852405,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-hang-cao-cap-ha-noi.197/", "http://gaigoivl.com/gai-goi-pho-co-long-bien/", "http://gaigoivl.com/gai-goi-thai-ha-chua-boc/" ],
-  "girlSum" : 32
+  "girlSum" : 30
 }, {
   "name" : "Tan Binh",
   "lat" : 10.802261,
@@ -57,19 +57,19 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tran-duy-hung-nguyen-thi-dinh.194/", "http://gaigoivl.com/gai-goi-tran-duy-hung/", "http://gaigoivl.com/gai-goi-lang-nga-tu-so/", "http://gaigoivl.com/gai-goi-kim-lien-xa-dan/", "http://gaigoivl.com/gai-goi-khu-vuc-khac/" ],
-  "girlSum" : 42
+  "girlSum" : 41
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 13
+  "girlSum" : 12
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
   "lon" : 106.826417,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-mien-dong.217/" ],
-  "girlSum" : 5
+  "girlSum" : 6
 }, {
   "name" : "Ha Noi overnight",
   "lat" : 21.017369,
@@ -87,7 +87,7 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 23
+  "girlSum" : 20
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 42
+  "girlSum" : 41
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
