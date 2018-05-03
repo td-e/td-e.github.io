@@ -9,7 +9,7 @@
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "http://gaigoivl.com/gai-goi-my-dinh-htm/" ],
-  "girlSum" : 20
+  "girlSum" : 19
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -39,7 +39,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "http://gaigoivl.com/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 30
+  "girlSum" : 31
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
@@ -69,7 +69,7 @@
   "lat" : 10.95084,
   "lon" : 106.826417,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-mien-dong.217/" ],
-  "girlSum" : 7
+  "girlSum" : 6
 }, {
   "name" : "Ha Noi overnight",
   "lat" : 21.017369,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 39
+  "girlSum" : 38
 } ]
