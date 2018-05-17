@@ -330,7 +330,7 @@ $(function() {
 // Returns [navContainerSelector, navItemSelector]; null if dlg-map is on top
 var findCurrentNav = function() {
   if ($dlgStack.length == 0) {
-    return ['body', '#threads h4'];
+    return ['body,html', '#threads h4'];
   }
 
   var dlg = $dlgStack[$dlgStack.length - 1];
@@ -380,7 +380,7 @@ $(function() {
       $(navContainerSelector).scrollTop(0);
     } else {
       var prevItem = $(items[currentIdx - 1]);
-      var top      = navContainerSelector == 'body' ? prevItem.offset().top : prevItem.offset().top - prevItem.parent().offset().top;
+      var top      = navContainerSelector == 'body,html' ? prevItem.offset().top : prevItem.offset().top - prevItem.parent().offset().top;
       $(navContainerSelector).scrollTop(top);
     }
   });
@@ -399,7 +399,7 @@ $(function() {
       $(navContainerSelector).scrollTop($(navContainerSelector).height());
     } else {
       var nextItem = $(items[currentIdx + 1]);
-      var top      = navContainerSelector == 'body' ? nextItem.offset().top : nextItem.offset().top - nextItem.parent().offset().top;
+      var top      = navContainerSelector == 'body,html' ? nextItem.offset().top : nextItem.offset().top - nextItem.parent().offset().top;
       $(navContainerSelector).scrollTop(top);
     }
   });
