@@ -97,8 +97,10 @@ var loadGirlAreaSums = function(map) {
       var total = 0;
       for (var i = 0; i < girlAreaSums.length; i++) {
         var girlAreaSum = girlAreaSums[i];
-        loadGirlAreaSum(map, girlAreaSum);
-        total += girlAreaSum.girlSum;
+        if (girlAreaSum.girlSum > 0) {
+          loadGirlAreaSum(map, girlAreaSum);
+          total += girlAreaSum.girlSum;
+        }
       }
       $('#dlg-map .dlg-title').text('' + total + ' call girls in Vietnam');
     }
