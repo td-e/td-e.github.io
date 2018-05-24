@@ -27,7 +27,7 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "http://gaigoivl.com/gai-goi-quan-go-vap/", "http://gaigoivl.com/gai-goi-quan-phu-nhuan/", "http://gaigoivl.com/gai-goi-quan-binh-thanh/", "http://gaigoivl.com/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 18
+  "girlSum" : 17
 }, {
   "name" : "Pho Co",
   "lat" : 21.029042,
@@ -69,7 +69,7 @@
   "lat" : 10.95084,
   "lon" : 106.826417,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-mien-dong.217/" ],
-  "girlSum" : 12
+  "girlSum" : 10
 }, {
   "name" : "Ha Noi overnight",
   "lat" : 21.017369,
@@ -87,7 +87,7 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 32
+  "girlSum" : 33
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 48
+  "girlSum" : 47
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
