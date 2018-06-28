@@ -330,7 +330,7 @@ $(function() {
 // Returns [navContainerSelector, navItemSelector]; null if dlg-map is on top
 var findCurrentNav = function() {
   if ($dlgStack.length == 0) {
-    return ['body,html', '#threads h4'];
+    return ['html,body', '#threads h4'];
   }
 
   var dlg = $dlgStack[$dlgStack.length - 1];
@@ -348,12 +348,18 @@ var findCurrentNav = function() {
   return undefined;
 };
 
+var getScrollTop = function(selector) {
+  return (selector === 'html,body')
+    ? Math.max(window.pageYOffset, document.documentElement.scrollTop, document.body.scrollTop)
+    : $(selector).scrollTop();
+};
+
 // Find currently displayed item idx
 var findCurrentNavItemIdx = function(navContainerSelector, navItemSelector) {
   var items = $(navItemSelector);
   if (items.length < 2) return -1;
 
-  var top = $(navContainerSelector).scrollTop() + $(items[0]).offset().top;
+  var top = getScrollTop(navContainerSelector) + $(items[0]).offset().top;
 
   // TODO: Use binary search
   for (var i = 0; i < items.length - 1; i++) {
@@ -380,7 +386,7 @@ $(function() {
       $(navContainerSelector).scrollTop(0);
     } else {
       var prevItem = $(items[currentIdx - 1]);
-      var top      = navContainerSelector == 'body,html' ? prevItem.offset().top : prevItem.offset().top - prevItem.parent().offset().top;
+      var top      = navContainerSelector == 'html,body' ? prevItem.offset().top : prevItem.offset().top - prevItem.parent().offset().top;
       $(navContainerSelector).scrollTop(top);
     }
   });
@@ -399,7 +405,7 @@ $(function() {
       $(navContainerSelector).scrollTop($(navContainerSelector).height());
     } else {
       var nextItem = $(items[currentIdx + 1]);
-      var top      = navContainerSelector == 'body,html' ? nextItem.offset().top : nextItem.offset().top - nextItem.parent().offset().top;
+      var top      = navContainerSelector == 'html,body' ? nextItem.offset().top : nextItem.offset().top - nextItem.parent().offset().top;
       $(navContainerSelector).scrollTop(top);
     }
   });
@@ -427,10 +433,9 @@ $(function() {
         if (!navs) return;
 
         var navContainerSelector = navs[0];
-        var scroller             = $(navContainerSelector);
 
         // Stop if the user scrolled up
-        scrollTop = $(scroller).scrollTop();
+        scrollTop = getScrollTop(navContainerSelector);
         if (scrollTop + 5 < lastScrollTop) {
           stopScroll();
           return;
@@ -442,7 +447,7 @@ $(function() {
 
         scrollTop += distance;
         lastScrollTop = scrollTop;
-        $(scroller).scrollTop(scrollTop);
+        $(navContainerSelector).scrollTop(scrollTop);
       }, 20);
     } else {
       if (fapSpeed == 4) {
