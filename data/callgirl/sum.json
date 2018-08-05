@@ -3,7 +3,7 @@
   "lat" : 10.76845,
   "lon" : 106.680512,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cao-cap-sai-gon.212/" ],
-  "girlSum" : 0
+  "girlSum" : 1
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -57,7 +57,7 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tran-duy-hung-nguyen-thi-dinh.194/", "http://gaigoivl.com/gai-goi-tran-duy-hung/", "http://gaigoivl.com/gai-goi-lang-nga-tu-so/", "http://gaigoivl.com/gai-goi-kim-lien-xa-dan/", "http://gaigoivl.com/gai-goi-khu-vuc-khac/" ],
-  "girlSum" : 37
+  "girlSum" : 36
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
@@ -93,23 +93,23 @@
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 31
+  "girlSum" : 32
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 25
+  "girlSum" : 28
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 17
+  "girlSum" : 18
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 32
+  "girlSum" : 33
 } ]
