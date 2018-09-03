@@ -27,7 +27,7 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "http://gaigoivl.com/gai-goi-quan-go-vap/", "http://gaigoivl.com/gai-goi-quan-phu-nhuan/", "http://gaigoivl.com/gai-goi-quan-binh-thanh/", "http://gaigoivl.com/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 21
+  "girlSum" : 18
 }, {
   "name" : "Pho Co",
   "lat" : 21.029042,
@@ -57,13 +57,13 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tran-duy-hung-nguyen-thi-dinh.194/", "http://gaigoivl.com/gai-goi-tran-duy-hung/", "http://gaigoivl.com/gai-goi-lang-nga-tu-so/", "http://gaigoivl.com/gai-goi-kim-lien-xa-dan/", "http://gaigoivl.com/gai-goi-khu-vuc-khac/" ],
-  "girlSum" : 31
+  "girlSum" : 32
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 12
+  "girlSum" : 13
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -87,25 +87,25 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 24
+  "girlSum" : 18
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 35
+  "girlSum" : 34
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 46
+  "girlSum" : 45
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 23
+  "girlSum" : 20
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
