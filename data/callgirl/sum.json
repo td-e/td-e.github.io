@@ -87,19 +87,19 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 31
+  "girlSum" : 32
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 34
+  "girlSum" : 35
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 46
+  "girlSum" : 45
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 40
+  "girlSum" : 39
 } ]
