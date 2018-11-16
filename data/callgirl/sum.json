@@ -39,7 +39,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "http://gaigoivl.com/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 29
+  "girlSum" : 30
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
@@ -93,7 +93,7 @@
   "lat" : 10.765879,
   "lon" : 106.638566,
   "urls" : [ "http://thiendia.com/diendan/forums/may-bay-thuong-mai-chat-luong.213/" ],
-  "girlSum" : 38
+  "girlSum" : 39
 }, {
   "name" : "Ha Noi cheap",
   "lat" : 21.006412,
@@ -105,7 +105,7 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 22
+  "girlSum" : 23
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
