@@ -33,13 +33,13 @@
   "lat" : 21.029042,
   "lon" : 105.852405,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-hang-cao-cap-ha-noi.197/", "http://gaigoivl.com/gai-goi-pho-co-long-bien/", "http://gaigoivl.com/gai-goi-thai-ha-chua-boc/" ],
-  "girlSum" : 13
+  "girlSum" : 14
 }, {
   "name" : "Tan Binh",
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "http://gaigoivl.com/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 30
+  "girlSum" : 29
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
@@ -51,7 +51,7 @@
   "lat" : 10.769335,
   "lon" : 106.693637,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-1-q3-q5.214/", "http://gaigoivl.com/gai-goi-quan-1-3/" ],
-  "girlSum" : 6
+  "girlSum" : 7
 }, {
   "name" : "Tran Duy Hung/Nguyen Thi Dinh",
   "lat" : 21.013362,
@@ -63,7 +63,7 @@
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 26
+  "girlSum" : 25
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -105,11 +105,11 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "http://gaigoivl.com/gai-goi-quan-10-12/" ],
-  "girlSum" : 23
+  "girlSum" : 24
 }, {
   "name" : "Cau Giay/Nguyen Khanh Toan",
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 42
+  "girlSum" : 44
 } ]
