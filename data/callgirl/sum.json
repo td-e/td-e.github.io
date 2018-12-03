@@ -57,13 +57,13 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-tran-duy-hung-nguyen-thi-dinh.194/", "http://gaigoivl.com/gai-goi-tran-duy-hung/", "http://gaigoivl.com/gai-goi-lang-nga-tu-so/", "http://gaigoivl.com/gai-goi-kim-lien-xa-dan/", "http://gaigoivl.com/gai-goi-khu-vuc-khac/" ],
-  "girlSum" : 34
+  "girlSum" : 33
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 18
+  "girlSum" : 17
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -75,13 +75,13 @@
   "lat" : 21.017369,
   "lon" : 105.807176,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-di-dem-tai-ha-noi.220/", "http://gaigoivl.com/gai-goi-qua-dem/" ],
-  "girlSum" : 28
+  "girlSum" : 29
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "http://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "http://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 0
+  "girlSum" : 1
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 38
+  "girlSum" : 34
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 47
+  "girlSum" : 48
 } ]
