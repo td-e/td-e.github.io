@@ -45,7 +45,7 @@
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 26
+  "girlSum" : 27
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -87,7 +87,7 @@
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "http://gaigoivl.com/gai-goi-quan-6-8/" ],
-  "girlSum" : 29
+  "girlSum" : 30
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
@@ -99,7 +99,7 @@
   "lat" : 21.006412,
   "lon" : 105.805647,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-gia-re-va-may-bay-thuong-mai.206/" ],
-  "girlSum" : 32
+  "girlSum" : 31
 }, {
   "name" : "District 10",
   "lat" : 10.774495,
@@ -111,5 +111,5 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "http://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/", "http://gaigoivl.com/gai-goi-nguyen-khanh-toan/", "http://gaigoivl.com/gai-goi-nguyen-xien/" ],
-  "girlSum" : 48
+  "girlSum" : 47
 } ]
