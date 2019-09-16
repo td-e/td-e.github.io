@@ -21,7 +21,7 @@
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 122
+  "girlSum" : 130
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -33,25 +33,25 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-tran-duy-hung.194/", "https://thiendia.com/diendan/forums/gai-goi-nguyen-thi-dinh-hoang-ngan.258/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-tran-duy-hung/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-thanh-xuan-nga-tu-so/" ],
-  "girlSum" : 119
+  "girlSum" : 121
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 56
+  "girlSum" : 57
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "https://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "https://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 6
+  "girlSum" : 7
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-quan-6-binh-tan.257/", "https://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-6/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-8/" ],
-  "girlSum" : 70
+  "girlSum" : 72
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
@@ -63,13 +63,13 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/" ],
-  "girlSum" : 101
+  "girlSum" : 103
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "https://thiendia.com/diendan/forums/gai-goi-long-bien-gia-lam.245/", "https://thiendia.com/diendan/forums/gai-goi-my-dinh-dinh-thon.250/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-my-dinh-dinh-thon/" ],
-  "girlSum" : 73
+  "girlSum" : 72
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -87,13 +87,13 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 59
+  "girlSum" : 58
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
   "lon" : 106.826417,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-dong-nai.256/", "https://thiendia.com/diendan/forums/gai-goi-mien-dong.217/" ],
-  "girlSum" : 7
+  "girlSum" : 8
 }, {
   "name" : "Ha Noi overnight",
   "lat" : 21.017369,
@@ -111,5 +111,5 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-10/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-12/" ],
-  "girlSum" : 44
+  "girlSum" : 43
 } ]
