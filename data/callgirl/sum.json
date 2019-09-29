@@ -21,7 +21,7 @@
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 138
+  "girlSum" : 139
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -39,13 +39,13 @@
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 57
+  "girlSum" : 58
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "https://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "https://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 16
+  "girlSum" : 14
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
@@ -87,7 +87,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 64
+  "girlSum" : 65
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
