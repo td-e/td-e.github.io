@@ -21,7 +21,7 @@
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 170
+  "girlSum" : 172
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -33,19 +33,19 @@
   "lat" : 21.013362,
   "lon" : 105.802816,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-tran-duy-hung.194/", "https://thiendia.com/diendan/forums/gai-goi-nguyen-thi-dinh-hoang-ngan.258/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-tran-duy-hung/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-thanh-xuan-nga-tu-so/" ],
-  "girlSum" : 145
+  "girlSum" : 146
 }, {
   "name" : "Ha Noi center",
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 65
+  "girlSum" : 64
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "https://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "https://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 15
+  "girlSum" : 16
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
