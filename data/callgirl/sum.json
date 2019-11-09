@@ -15,13 +15,13 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-go-vap/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-phu-nhuan/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-binh-thanh/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 70
+  "girlSum" : 71
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 186
+  "girlSum" : 187
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -45,13 +45,13 @@
   "lat" : 16.045158,
   "lon" : 108.214147,
   "urls" : [ "https://thiendia.com/diendan/forums/trung-tam-gai-goi-share-hang-mien-trung.222/", "https://gaigoivl.com/gai-goi-da-nang/" ],
-  "girlSum" : 15
+  "girlSum" : 12
 }, {
   "name" : "District 8",
   "lat" : 10.736186,
   "lon" : 106.690019,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-quan-6-binh-tan.257/", "https://thiendia.com/diendan/forums/gai-goi-khu-trung-son-quan-8.207/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-6/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-8/" ],
-  "girlSum" : 103
+  "girlSum" : 102
 }, {
   "name" : "Saigon cheap",
   "lat" : 10.765879,
@@ -69,7 +69,7 @@
   "lat" : 20.992563,
   "lon" : 105.817566,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-khac.196/", "https://thiendia.com/diendan/forums/gai-goi-long-bien-gia-lam.245/", "https://thiendia.com/diendan/forums/gai-goi-my-dinh-dinh-thon.250/", "https://gaigoivl.com/gai-goi-ha-noi/gai-goi-my-dinh-dinh-thon/" ],
-  "girlSum" : 91
+  "girlSum" : 92
 }, {
   "name" : "Ha Noi pretty",
   "lat" : 21.015466,
@@ -93,7 +93,7 @@
   "lat" : 10.95084,
   "lon" : 106.826417,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-dong-nai.256/", "https://thiendia.com/diendan/forums/gai-goi-mien-dong.217/" ],
-  "girlSum" : 9
+  "girlSum" : 10
 }, {
   "name" : "Ha Noi overnight",
   "lat" : 21.017369,
@@ -111,5 +111,5 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-10/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-12/" ],
-  "girlSum" : 65
+  "girlSum" : 66
 } ]
