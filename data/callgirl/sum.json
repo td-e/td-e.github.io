@@ -39,7 +39,7 @@
   "lat" : 21.024348,
   "lon" : 105.841126,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-noi-thanh-ha-noi.193/" ],
-  "girlSum" : 25
+  "girlSum" : 24
 }, {
   "name" : "Da Nang",
   "lat" : 16.045158,
@@ -63,7 +63,7 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/" ],
-  "girlSum" : 42
+  "girlSum" : 44
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -111,5 +111,5 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-10/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-12/" ],
-  "girlSum" : 54
+  "girlSum" : 52
 } ]
