@@ -15,13 +15,13 @@
   "lat" : 10.813059,
   "lon" : 106.675965,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-go-vap-phu-nhuan.210/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-go-vap/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-phu-nhuan/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-binh-thanh/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-tan-phu/" ],
-  "girlSum" : 52
+  "girlSum" : 50
 }, {
   "name" : "Hai Phong",
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 150
+  "girlSum" : 152
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -87,7 +87,7 @@
   "lat" : 10.802261,
   "lon" : 106.664324,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-tan-binh.209/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-tan-binh/" ],
-  "girlSum" : 37
+  "girlSum" : 41
 }, {
   "name" : "Bien Hoa",
   "lat" : 10.95084,
@@ -111,5 +111,5 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-10/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-12/" ],
-  "girlSum" : 50
+  "girlSum" : 51
 } ]
