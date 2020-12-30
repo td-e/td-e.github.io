@@ -21,7 +21,7 @@
   "lat" : 20.855937,
   "lon" : 106.687223,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-vuc-hai-phong.216/" ],
-  "girlSum" : 275
+  "girlSum" : 286
 }, {
   "name" : "Saigon center",
   "lat" : 10.769335,
@@ -63,7 +63,7 @@
   "lat" : 21.040645,
   "lon" : 105.795748,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-cau-giay-nguyen-khanh-toan-hqv.195/" ],
-  "girlSum" : 88
+  "girlSum" : 89
 }, {
   "name" : "Outer Ha Noi",
   "lat" : 20.992563,
@@ -111,5 +111,5 @@
   "lat" : 10.774495,
   "lon" : 106.672432,
   "urls" : [ "https://thiendia.com/diendan/forums/gai-goi-khu-quan-10.208/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-10/", "https://gaigoivl.com/gai-goi-sai-gon/gai-goi-quan-12/" ],
-  "girlSum" : 135
+  "girlSum" : 136
 } ]
